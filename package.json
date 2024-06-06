@@ -2,16 +2,5 @@
   "dependencies": {
     "@google/generative-ai": "^0.12.0",
     "dotenv": "^16.4.5"
-  },
-  "name": "stumate",
-  "type": "module",
-  "version": "1.0.0",
-  "main": "script.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
